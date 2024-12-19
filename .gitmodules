@@ -1,0 +1,3 @@
+[submodule "esp-32"]
+	path = esp-32
+	url = https://github.com/stariluz/uach-ss-esp-32-photoresist
